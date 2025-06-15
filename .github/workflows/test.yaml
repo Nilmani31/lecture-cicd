@@ -6,7 +6,7 @@ jobs:
   helloworld:
     runs-on: ubuntu-latest
     steps:
-      - name: Hello World
+      - name: List all the files
         run: echo "Test test"
         
 
