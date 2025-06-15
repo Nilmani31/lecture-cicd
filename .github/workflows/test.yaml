@@ -7,5 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hello World
-        run: echo "Lecture CICD"
+        run: echo "Test test"
+        
 
